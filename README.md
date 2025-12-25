@@ -1,27 +1,3 @@
-# Overview of MAT496
-
-In this course, I have primarily learned Langgraph. This is helpful tool to build apps which can process unstructured `text`, find information I am looking for, and present the format we choose. Some specific topics we have covered are:
-
-- Prompting
-- Structured Output 
-- Semantic Search
-- Retreaval Augmented Generation (RAG)
-- Tool calling LLMs & MCP
-- Langgraph: State, Nodes, Graph
-
-I also learned that Langsmith is a nice tool for debugging Langgraph codes.
-
-------
-
-# Capstone Project objective
-
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show my creativity. Think about all the problems I can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, I can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, I can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs.
-
-
--------------------------
-
-# Project report Template
-
 ## Title: GitGuard AI
 ## Overview
 
