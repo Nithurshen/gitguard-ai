@@ -17,8 +17,6 @@ This project demonstrates the practical application of Large Language Models in 
 
 - **Human-in-the-Loop:** Implementing a safety layer before writing to a public API.
 
-## Video Summary [(Click Here)](https://youtu.be/fdorvs2phGs)
-
 ## Plan
 
 I plan to excecute these steps to complete my project.
